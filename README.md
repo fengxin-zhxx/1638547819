@@ -1,5 +1,5 @@
 - 👋 Hi, I’m FengXin
-- 🌱 I’m currently learning Computer **Science and Technology** at **Jilin University**
+- 🌱 I’m currently learning **Computer Science and Technology** at **Jilin University**
 - 📫 How to reach me:  QQ 1638547819
 
 <!---
